@@ -1,0 +1,4 @@
+Server: "Basic Eyetracking Sample.exe" | PipeServer.exe "APipeName"
+Client: PipeClient.exe "APipeName"
+
+PipeClient.exe "APipeName" >> "C:\Users\Usability SCU Lab\Desktop\EyeTrackerSRDES\tobii\DotNet\Basic Eyetracking Sample\bin\Debug\test.csv"

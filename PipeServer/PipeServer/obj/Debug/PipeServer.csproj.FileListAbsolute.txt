@@ -1,0 +1,12 @@
+C:\Users\Usability SCU Lab\Desktop\PipeServer\PipeServer\bin\Debug\PipeServer.exe.config
+C:\Users\Usability SCU Lab\Desktop\PipeServer\PipeServer\bin\Debug\PipeServer.exe
+C:\Users\Usability SCU Lab\Desktop\PipeServer\PipeServer\bin\Debug\PipeServer.pdb
+C:\Users\Usability SCU Lab\Desktop\PipeServer\PipeServer\obj\Debug\PipeServer.csprojResolveAssemblyReference.cache
+C:\Users\Usability SCU Lab\Desktop\PipeServer\PipeServer\obj\Debug\PipeServer.exe
+C:\Users\Usability SCU Lab\Desktop\PipeServer\PipeServer\obj\Debug\PipeServer.pdb
+C:\Users\Usability SCU Lab\Desktop\EyeTrackerSRDES\PipeServer\PipeServer\bin\Debug\PipeServer.exe.config
+C:\Users\Usability SCU Lab\Desktop\EyeTrackerSRDES\PipeServer\PipeServer\obj\Debug\PipeServer.exe
+C:\Users\Usability SCU Lab\Desktop\EyeTrackerSRDES\PipeServer\PipeServer\obj\Debug\PipeServer.pdb
+C:\Users\Usability SCU Lab\Desktop\EyeTrackerSRDES\PipeServer\PipeServer\bin\Debug\PipeServer.exe
+C:\Users\Usability SCU Lab\Desktop\EyeTrackerSRDES\PipeServer\PipeServer\bin\Debug\PipeServer.pdb
+C:\Users\Usability SCU Lab\Desktop\EyeTrackerSRDES\PipeServer\PipeServer\obj\Debug\PipeServer.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\Usability SCU Lab\Desktop\PipeClient\PipeClient\bin\Debug\PipeClient.exe.config
+C:\Users\Usability SCU Lab\Desktop\PipeClient\PipeClient\bin\Debug\PipeClient.exe
+C:\Users\Usability SCU Lab\Desktop\PipeClient\PipeClient\bin\Debug\PipeClient.pdb
+C:\Users\Usability SCU Lab\Desktop\PipeClient\PipeClient\obj\Debug\PipeClient.exe
+C:\Users\Usability SCU Lab\Desktop\PipeClient\PipeClient\obj\Debug\PipeClient.pdb
+C:\Users\Usability SCU Lab\Desktop\PipeClient\PipeClient\obj\Debug\PipeClient.csprojResolveAssemblyReference.cache
+C:\Users\Usability SCU Lab\Desktop\EyeTrackerSRDES\PipeClient\PipeClient\bin\Debug\PipeClient.exe.config
+C:\Users\Usability SCU Lab\Desktop\EyeTrackerSRDES\PipeClient\PipeClient\obj\Debug\PipeClient.exe
+C:\Users\Usability SCU Lab\Desktop\EyeTrackerSRDES\PipeClient\PipeClient\obj\Debug\PipeClient.pdb
+C:\Users\Usability SCU Lab\Desktop\EyeTrackerSRDES\PipeClient\PipeClient\bin\Debug\PipeClient.exe
+C:\Users\Usability SCU Lab\Desktop\EyeTrackerSRDES\PipeClient\PipeClient\bin\Debug\PipeClient.pdb
+C:\Users\Usability SCU Lab\Desktop\EyeTrackerSRDES\PipeClient\PipeClient\obj\Debug\PipeClient.csprojResolveAssemblyReference.cache
